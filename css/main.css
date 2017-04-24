@@ -101,6 +101,7 @@ nav a:hover {
 }
 
 @media only screen and (min-width: 25em) {
+
   li {
     font-size: 1.4rem;
   }
@@ -112,16 +113,9 @@ nav a:hover {
 }
 
 @media only screen and (min-width: 38em) {
+
   h3 {
     font-size: 1rem;
   }
-
-}
-
-@media only screen and (min-width: 60em) {
-
-}
-
-@media only screen and (min-width: 90em) {
 
 }
