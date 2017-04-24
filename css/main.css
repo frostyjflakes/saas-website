@@ -28,7 +28,6 @@ body {
 }
 
 .banner-home {
-  background-color: #662d91;
   color: #fff;
 }
 
@@ -94,6 +93,11 @@ nav li:hover {
 
 .turquoise {
   color: #00a79d;
+}
+
+.banner-sign-up {
+  background-color: #92278f;
+  color: #fff;
 }
 
 @media only screen and (min-width: 25em) {
