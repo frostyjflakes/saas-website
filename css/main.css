@@ -87,7 +87,7 @@ a {
   color: #000;
 }
 
-nav li:hover {
+nav a:hover {
   background-color: #ccc;
 }
 
