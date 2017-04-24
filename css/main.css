@@ -23,10 +23,6 @@ body {
   margin: 0;
 }
 
-.img-flex {
-  width: 100%;
-}
-
 .logo {
   font-family: "Leckerli One", cursive;
 }
@@ -92,19 +88,29 @@ a {
   color: #000;
 }
 
-.turquoise {
-  color: #00a79d;
-}
-
 nav li:hover {
   background-color: #ccc;
 }
 
+.turquoise {
+  color: #00a79d;
+}
+
 @media only screen and (min-width: 25em) {
+  li {
+    font-size: 1.4rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
 
 }
 
 @media only screen and (min-width: 38em) {
+  h3 {
+    font-size: 1rem;
+  }
 
 }
 
