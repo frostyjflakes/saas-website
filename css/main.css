@@ -32,12 +32,12 @@ body {
 }
 
 .banner-home {
-  background-color: #662D91;
+  background-color: #662d91;
   color: #fff;
 }
 
 .btn-home {
-  background-color: #F7941D;
+  background-color: #f7941d;
   color: #fff;
   font-family: "Leckerli One", cursive;
   border-radius: 32px;
@@ -45,7 +45,7 @@ body {
 }
 
 .banner-tour {
-  background-color: #00A79D;
+  background-color: #00a79d;
   color: #fff;
 }
 
@@ -59,16 +59,16 @@ body {
 }
 
 .banner-pricing {
-  background-color: #F7941D;
+  background-color: #f7941d;
   color: #fff;
 }
 
 .orange {
-  background-color: #F7941D;
+  background-color: #f7941d;
 }
 
 .btn-pricing {
-  background-color: #92278F;
+  background-color: #92278f;
   color: #fff;
   font-family: "Leckerli One", cursive;
   border-radius: 32px;
@@ -80,7 +80,7 @@ body {
 }
 
 .btn-sign-up {
-  background-color: #00A79D;
+  background-color: #00a79d;
   color: #fff;
   font-family: "Leckerli One", cursive;
   border-radius: 32px;
@@ -89,10 +89,10 @@ body {
 
 .btn-submit {
   background-color: #fff;
-  color: #00A79D;
+  color: #00a79d;
   font-family: "Leckerli One", cursive;
   border-radius: 32px;
-  border-color: #00A79D;
+  border-color: #00a79d;
 }
 
 a {
@@ -101,7 +101,7 @@ a {
 }
 
 .turquoise {
-  color: #00A79D;
+  color: #00a79d;
 }
 
 nav li:hover {
